@@ -4,4 +4,4 @@ b="new line"
 print(b)
 print(a)
 
-str_master=" emooooooooooooooo"
+str="emooo"
